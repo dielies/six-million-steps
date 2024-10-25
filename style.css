@@ -1,0 +1,13 @@
+body {
+  background-color: #458a81;
+  color: white;
+  text-align: center;
+}
+
+.picture-container {
+  display: flex;
+  max-width: 600px;
+  border-radius: 10px;
+  justify-content: center;
+  margin: auto;
+}
